@@ -366,3 +366,4 @@ src/**/inf.yaml
 
 # Ignores migration folder
 src/WebAPI/Migrations
+.old
